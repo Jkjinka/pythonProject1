@@ -3,3 +3,4 @@ print("Мой список:", first_list)
 print(" ")  # разделение для красоты
 for a in first_list:
     print(a, "-", type(a))
+
